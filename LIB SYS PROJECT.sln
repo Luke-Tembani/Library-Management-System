@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LIB SYS PROJECT", "LIB SYS PROJECT\LIB SYS PROJECT.vbproj", "{727DA991-D1FC-4405-A578-97E4ABBF3CD8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Library System Setup exe 2019", "Library System Setup exe 2019\Library System Setup exe 2019.vdproj", "{21053A19-DD12-49BB-9564-E2A4223BCC93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727DA991-D1FC-4405-A578-97E4ABBF3CD8}.Debug|x86.ActiveCfg = Debug|x86
+		{727DA991-D1FC-4405-A578-97E4ABBF3CD8}.Debug|x86.Build.0 = Debug|x86
+		{727DA991-D1FC-4405-A578-97E4ABBF3CD8}.Release|x86.ActiveCfg = Release|x86
+		{727DA991-D1FC-4405-A578-97E4ABBF3CD8}.Release|x86.Build.0 = Release|x86
+		{21053A19-DD12-49BB-9564-E2A4223BCC93}.Debug|x86.ActiveCfg = Debug
+		{21053A19-DD12-49BB-9564-E2A4223BCC93}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
